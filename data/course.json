@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "8432a7af-5d38-becc-b5ca-9e3816dd2923",
+  "instructors": {
+    "content": [
+      "ff38ba94-82e8-6f1a-4866-d7ff8f123a94",
+      "7f446983-af44-a4f2-7ea4-a13372b97f4f",
+      "3c856e63-9967-3c67-c7bf-0af91d0d4f1b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "54a66955-6f12-fa2c-b251-f099cd602851",
+    "website": "16-812-the-aerospace-industry-spring-2004"
+  },
+  "course_title": "The Aerospace Industry",
+  "course_description": "This course meets weekly to discuss recent aerospace history and current events, in order to understand how they are responsible for the state of the aerospace industry. With invited subject matter experts participating in nearly every session, students have an opportunity to hone their insight through truly informed discussion. The aim of the course is to prepare junior and senior level students for their first industry experiences.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.812",
+  "course_image_thumbnail": {
+    "content": "83c9e810-2e93-6065-c3ee-ec5cd396940a",
+    "website": "16-812-the-aerospace-industry-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "feefda0e-2f99-4847-9392-857e408ec6cc",
+  "site_short_id": "16.812-spring-2004",
+  "site_url_path": "courses/16-812-the-aerospace-industry-spring-2004",
+  "title": "Course Metadata"
+}
