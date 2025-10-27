@@ -151,4 +151,4 @@ Readings from the following textbook and magazine will be assigned:
 
 Murman, et al. _Lean Enterprise Value: Insights from MIT's Lean Aerospace Initiative._ Palgrave Macmillan, March 2002. ISBN: 0333976975.
 
-_{{% resource_link "06d1f097-9807-4715-b42c-ec03423f6010" "Aviation Week & Space Technology" %}}._ McGraw Hill.
+_[Aviation Week & Space Technology](http://magazinesdownload.com/post/2012/06/29/Aviation-Week-Space-Technology-02-July-2012.aspx)._ McGraw Hill.
